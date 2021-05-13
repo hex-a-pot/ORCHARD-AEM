@@ -119,7 +119,4 @@ called is removed.
 * Utilizes dev-only and prod-only webpack config files that share a common config file. This way the development and production settings can be tweaked independently.
 
 ##CHANGES2
-Commiting second time
-Commiting third time
-commiting fourth time
-commiting fifth time
+
