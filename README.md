@@ -117,3 +117,5 @@ called is removed.
 ### Notes
 
 * Utilizes dev-only and prod-only webpack config files that share a common config file. This way the development and production settings can be tweaked independently.
+
+##CHANGES1
